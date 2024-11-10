@@ -1,6 +1,11 @@
-## 딥러닝 신경망 이해 - (1) 퍼셉트론
-인공 신경망 (Artificial Neural Network), 신경망을 이루는 가장 중요한 기본 단위는 Perceptron이다. 
-Perceptron: A basic unit of a neural network that mimics a biological neuron by taking multiple inputs, calculating a weighted sum, applying an activation function, and producing a binary output
+# ICT 이노베이션스퀘어 : 올인원 PASS 인공지능 언어 마스터 과정 참여
 
-
-## (2) 다층 퍼셉트론
+Deep Learning study
+1. 다층 퍼셉트론
+2. 오차 역전파법
+3. 폐암 환자 생존률 예측 모델(모델 설계 기본)
+4. 파마 인디언 당뇨병 예측 모델 (데이터 분석, 이진 분류 문제)
+5. 아이리스 품종 예측 모델 (다중 분류 문제)
+6. 초음파 광물 예측 모델 (과적합 방지, 모델 성능 향상)
+7. CNN 합성곱 신경망
+8. 손글씨 인식 (MLP)
